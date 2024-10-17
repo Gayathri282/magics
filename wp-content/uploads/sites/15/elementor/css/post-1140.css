@@ -58,7 +58,7 @@
     --margin-bottom: 0px;
     --margin-left: 0px;
     --margin-right: 0px;
-    --padding-top: 6em;
+    /* --padding-top: 6em; */
     --padding-bottom: 6em;
     --padding-left: 0em;
     --padding-right: 4em;
@@ -3785,7 +3785,7 @@ body.rtl .elementor-1140 .elementor-element.elementor-element-00570f1 {
 
 @media(max-width:1024px) {
     .elementor-1140 .elementor-element.elementor-element-8297151 {
-        --min-height: 780px;
+        /* --min-height: 780px; */
         --justify-content: flex-start;
         --padding-top: 6em;
         --padding-bottom: 0em;
@@ -4107,10 +4107,10 @@ body.rtl .elementor-1140 .elementor-element.elementor-element-00570f1 {
 
 @media(max-width:767px) {
     .elementor-1140 .elementor-element.elementor-element-8297151 {
-        --min-height: 550px;
+        --min-height: auto
     }
     .elementor-1140 .elementor-element.elementor-element-5e09932 {
-        --min-height: 720px;
+        --min-height: auto;
     }
     .elementor-1140 .elementor-element.elementor-element-a11183e {
         --align-items: center;
